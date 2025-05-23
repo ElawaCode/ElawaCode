@@ -6,14 +6,14 @@ I'm a preparatory school student from **Giza, Egypt** 🇪🇬. I really enjoy p
 ## 👨‍💻 About Me
 
 - 💡 Beginner mobile app developer using **Flutter**  
-- 💻 I started learning with **MIT App Inventor**, then moved to **Python, Java, and Dart**  
+- 💻 I started learning with **MIT App Inventor**, then moved to **Python, Dart**  
 - 🎯 I’m currently learning **Flutter** and working on cool small projects  
 - 📚 I always try to improve my skills and learn from different online platforms
 
 ## 🛠️ Skills
 
 ### 🧑‍💻 Technical Skills:
-- **Programming Languages:** Dart, Java, Python, HTML, CSS  
+- **Programming Languages:** Dart, Python, HTML, CSS  
 - **Tools & Technologies:** Flutter, MIT App Inventor  
 - **Concepts:**  
   - Object-Oriented Programming (OOP)  
