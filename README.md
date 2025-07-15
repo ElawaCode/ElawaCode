@@ -49,15 +49,47 @@ Shows 6 famous places in Egypt with pictures and info 🏺
 
 ## 📜 Certificates & Courses
 
-- Programming Basics – Digital Egypt Cubs  
-- Game Development – Digital Egypt Buds  
-- Internet Fundamentals  
+## 📜 Certificates & Courses
+
+- **CS50’s Scratch – Harvard University**  
+  (From the official Harvard website)
+
+- **ICDL Certificate – Edraak Platform**  
+  Covered essential computer & office skills (Word, Excel, PowerPoint)
+
+- **Internet Heroes Program – Google**  
+  Learned safe and smart internet usage
+
+- **Digital Egypt Cubs – Summer Bootcamp (Team Leader – Best Business Project)**  
+  Led a team and won Best Business Idea
+
+- **Digital Egypt Cubs – Programming Basics Certificate**
+
+- **Digital Egypt Buds – Game Development Certificate**
+
+- **Google – Internet Fundamentals**
+
+- **Digital Egypt Cubs – Real Projects (MIT App Inventor & Almentor)**
+
+- **Digital Egypt Cubs – Completion Certificate (Level 1)**
+  
 
 ## 🌐 Languages
 
 - Arabic  
-- English  
+- English
 
+  
+## 🌐 Social Media
+
+- 📸 Instagram: [@elawacode](https://www.instagram.com/elawacode)
+- 🎵 TikTok: [@elawa.code](https://www.tiktok.com/@elawa.code)
+- ▶️ YouTube: [@elawacode](https://youtube.com/@elawacode)
+- 👤 Facebook: [facebook.com/share/16tzoHKhQG](https://www.facebook.com/share/16tzoHKhQG/)
+- 💼 LinkedIn: [Mohamed Ahmed Gamil](https://www.linkedin.com/in/mohamed-ahmed-gamil-flutter)
+- 🐱 GitHub: [MohamedAhmedGamil1](https://github.com/MohamedAhmedGamil1)
+
+- 
 ## 📬 Contact Me
 
 - 📧 Email: [mohamedahmedgamil30@gmail.com](mailto:mohamedahmedgamil30@gmail.com)  
