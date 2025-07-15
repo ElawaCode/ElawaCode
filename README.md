@@ -47,7 +47,6 @@ A fun game with cartoon characters Tom and Jerry 🎮
 5. **Egypt Tour Guide App**  
 Shows 6 famous places in Egypt with pictures and info 🏺
 
-## 📜 Certificates & Courses
 
 ## 📜 Certificates & Courses
 
