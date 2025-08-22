@@ -70,5 +70,5 @@ My goal is to grow as a **professional software engineer and analyst**, contribu
 - 🌐 Website: [mohamedahmedgamil1.github.io](https://mohamedahmedgamil1.github.io/Mohamed-Ahmed-Gamil/)  
 - 📸 Instagram: [@Mohamed_Ahmed_Gamil](https://www.instagram.com/mohamed_ahmed_gamil)  
 - 🎵 TikTok: [@Mohamed_Ahmed_Gamil](https://www.tiktok.com/@elawa.code)  
-- ▶️ YouTube: [@Mohamed_Ahmed_Gamil](https://youtube.com/@elawacode)  
+- ▶️ YouTube: [@Mohamed Ahmed Gamil](https://youtube.com/@mohamed_ahmed_gamil)  
 
