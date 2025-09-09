@@ -66,12 +66,12 @@ My goal is to grow as a **professional software engineer and analyst**, contribu
 ## 📬 Contact & Socials
 - 📧 Email: [mohamedahmedgamil30@gmail.com](mailto:mohamedahmedgamil30@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mohamed-ahmed-gamil](https://www.linkedin.com/in/mohamed-ahmed-gamil)  
-- 🐱 GitHub: [github.com/MohamedAhmedGamil1](https://github.com/MohamedAhmedGamil1)  
-- 🌐 Website: [mohamedahmedgamil1.github.io](https://mohamedahmedgamil1.github.io/Mohamed-Ahmed-Gamil/)  
-- 📸 Instagram: [@Mohamed_Ahmed_Gamil](https://www.instagram.com/mohamed_ahmed_gamil)  
-- 🎵 TikTok: [@Mohamed.Ahmed.Gamil](https://www.tiktok.com/@mohamed.ahmed.gamil)  
-- ▶️ YouTube: [@Mohamed_Ahmed_Gamil](https://youtube.com/@mohamed_ahmed_gamil)  
-- 📘 Facebook: [Mohamed Ahmed Gamil](https://www.facebook.com/MohamedAhmedGamil1)
+- 🐱 GitHub: [github.com/ElawaCode](https://github.com/ElawaCode)  
+- 🌐 Website: [elawacode.github.io](https://elawacode.github.io/Mohamed-Ahmed-Gamil/)  
+- 📸 Instagram: [@ElawaCode](https://www.instagram.com/ElawaCode)  
+- 🎵 TikTok: [@ElawaCode](https://www.tiktok.com/@ElawaCode)  
+- ▶️ YouTube: [@ElawaCode](https://youtube.com/@ElawaCode)  
+- 📘 Facebook: [Mohamed Ahmed Gamil (ElawaCode)](https://www.facebook.com/ElawaCode)
 - 📌 All my official pages and links are available here: [Linktree](https://linktr.ee/mohamed_ahmed_gamil)
 
 
