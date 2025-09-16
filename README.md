@@ -65,7 +65,7 @@ My goal is to grow as a **professional software engineer and analyst**, contribu
 ---
 
 ## 📬 Contact & Socials
-- 📧 Email: [mohamedahmedgamil30@gmail.com](mailto:mohamedahmedgamil30@gmail.com)  
+- 📧 Email: [mohamed.elawa.dev@outlook.com](mailto:mohamed.elawa.dev@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/mohamed-ahmed-gamil](https://www.linkedin.com/in/mohamed-ahmed-gamil)  
 - 🐱 GitHub: [github.com/ElawaCode](https://github.com/ElawaCode)  
 - 🌐 Website: [elawacode.github.io](https://elawacode.github.io/Mohamed-Ahmed-Gamil/)  
