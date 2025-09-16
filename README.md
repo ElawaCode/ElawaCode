@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mohamed Ahmed Gamil Elawa
-### 🔹 Also known as **ElawaCode (علاوة كود)
+### 🔹 Also known as **ElawaCode (علاوة كود)** & **Mohamed Elawa (محمد عِلاوة)**
 
 Welcome to my GitHub profile!  
 I’m a **Web Developer & System Analyst** from **Giza, Egypt 🇪🇬**.  
@@ -72,7 +72,5 @@ My goal is to grow as a **professional software engineer and analyst**, contribu
 - 📸 Instagram: [@ElawaCode](https://www.instagram.com/ElawaCode)  
 - 🎵 TikTok: [@ElawaCode](https://www.tiktok.com/@ElawaCode)  
 - ▶️ YouTube: [@ElawaCode](https://youtube.com/@ElawaCode)  
-- 📘 Facebook: [Mohamed Ahmed Gamil (ElawaCode)](https://www.facebook.com/ElawaCode)
+- 📘 Facebook: [Mohamed Ahmed Gamil (ElawaCode)](https://www.facebook.com/ElawaCode)  
 - 📌 All my official pages and links are available here: [Linktree](https://linktr.ee/mohamed_ahmed_gamil)
-
-
