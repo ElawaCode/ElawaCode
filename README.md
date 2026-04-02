@@ -1,76 +1,84 @@
 # 👋 Hi, I’m Mohamed Ahmed Gamil Elawa
 ### 🔹 Also known as **ElawaCode (علاوة كود)** & **Mohamed Elawa (محمد عِلاوة)**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Future_Software_Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Giza,_Egypt-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
 Welcome to my GitHub profile!  
-I’m a **Web Developer & System Analyst** from **Giza, Egypt 🇪🇬**.  
-I enjoy designing and building web applications, analyzing systems, and bridging business needs with technology.  
-My goal is to grow as a **professional software engineer and analyst**, contributing to impactful digital solutions 🚀.  
+I am a student from **Giza, Egypt 🇪🇬**, passionate about continuous learning and acquiring new skills across various fields. My goal is to grow as a **future Software Engineer**, building impactful digital solutions that provide real value. I tackle challenges with a positive mindset and a dedication to growth 🚀.
 
 ---
 
 ## 👨‍💻 About Me
-- 🌐 Web Developer (Frontend & basic Backend)  
-- 🔍 System Analyst (requirements gathering, system flows, UI/UX improvements)  
-- 💻 Former Mobile App Developer (Flutter & MIT App Inventor)  
-- 🎯 Focused on problem solving, databases, and building efficient systems  
-- 📚 Lifelong learner, always improving my technical and analytical skills  
+- 🎓 **Student & Lifelong Learner**: Interested in tech, analytical thinking, and problem-solving.
+- 💻 **Web Development**: Focused on technical foundations and modern solutions.
+- 🔍 **System Analyst**: Experienced in UX improvements and system analysis.
+- ✍️ **Technical Content Creator**: Documenting ideas and sharing technical insights on **Substack** and social media.
 
 ---
 
 ## 🛠️ Skills
 
-### 🧑‍💻 Technical
-- **Programming Languages**: HTML, CSS, JavaScript (basics), Python, Dart  
-- **Databases**: SQL (MySQL basics)  
-- **Frameworks & Tools**: Flutter, MIT App Inventor  
-- **Concepts**:  
-  - System Analysis & Design  
-  - Object-Oriented Programming (OOP)  
-  - Data Structures & Algorithms  
-  - User Experience (UI/UX Principles)  
+### 🧑‍💻 Technical Skills
+| Feature | Tools & Knowledge |
+| :--- | :--- |
+| **Foundations** | `Programming Basics` `HTML5` `CSS3` |
+| **Tools** | `Git` `GitHub` `System Design` |
+| **Analysis** | `Professional analytical frameworks` `UI/UX Foundations` |
+| **Writing** | `Technical Writing` `Documentation` |
 
 ### 🌟 Soft Skills
-- Problem Solving | Analytical Thinking  
-- Communication & Team Collaboration  
-- Time Management | Creativity  
-- Attention to Detail | Continuous Learning  
-- Emotional Intelligence | Receiving Feedback  
-
----
-
-## 🚀 Projects
-
-1. **Simple Calculator App** – MIT App Inventor  
-2. **Notes App** – Digital Egypt Cubs  
-3. **Save the Fish Game** – Educational game 🐟  
-4. **Tom and Jerry Game** – Fun game 🎮  
-5. **Egypt Tour Guide App** – Shows famous places in Egypt 🏺  
-6. **Web Projects** – Basic websites & system tools (HTML, CSS, JS, Python)  
+- 🧩 **Problem Solving** | 🧠 **Critical Thinking**
+- 💡 **Creativity** | 🗣️ **Sharing Opinions & Ideas**
+- 📚 **Continuous Learning** | 📢 **Effective Communication**
+- ✨ **Positive Mindset** | 🔄 **Adaptability**
 
 ---
 
 ## 📜 Certificates & Courses
-- **CS50’s Scratch – Harvard University**  
-- **ICDL Certificate – Edraak Platform**  
-- **Internet Heroes Program – Google**  
-- **Digital Egypt Cubs** – Programming Basics, Real Projects, Bootcamps (Team Leader – Best Business Project)  
-- **Digital Egypt Buds – Game Development**  
+* 🎓 **CS50’s Scratch** – *Harvard University*
+* 🦁 **Digital Egypt Cubs (DEBI)**:
+    - 🏆 Won **"Best Business Project"** award.
+    - 👥 Served as a **Team Leader**.
+    - 🚀 Successfully promoted to **Level 4**.
+* 💻 **ICDL Certificate** – *Edraak Platform*
+* 🛡️ **Internet Heroes Program** – *Google*
+
+---
+
+## 📝 Latest Articles
+> [!NOTE]
+> I regularly document my thoughts on the intersection of technology and human growth.
+
+* 📖 **"How to make technology a smart companion?"**
+* 📖 **"Is passion really important or is discipline more critical?"**
+* 📖 **"Why do most people fail in learning?"**
+* 🔗 *Read more on my [Substack](https://substack.com/@elawacode)*.
 
 ---
 
 ## 🌐 Languages
-- Arabic  
-- English  
+- 🇪🇬 **Arabic**: Native
+- 🇬🇧 **English**: Proficient
 
 ---
 
 ## 📬 Contact & Socials
-- 📧 Email: [mohamed.elawa.dev@outlook.com](mailto:mohamed.elawa.dev@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/mohamed-ahmed-gamil](https://www.linkedin.com/in/mohamed-ahmed-gamil)  
-- 🐱 GitHub: [github.com/ElawaCode](https://github.com/ElawaCode)  
-- 🌐 Website: [elawacode.github.io](https://elawacode.github.io/Mohamed-Ahmed-Gamil/)  
-- 📸 Instagram: [@ElawaCode](https://www.instagram.com/ElawaCode)  
-- 🎵 TikTok: [@ElawaCode](https://www.tiktok.com/@ElawaCode)  
-- ▶️ YouTube: [@ElawaCode](https://youtube.com/@ElawaCode)  
-- 📘 Facebook: [Mohamed Ahmed Gamil (ElawaCode)](https://www.facebook.com/ElawaCode)  
-- 📌 All my official pages and links are available here: [Linktree](https://linktr.ee/mohamed_ahmed_gamil)
+<p align="left">
+<a href="mailto:mohamed.elawa.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mohamed-elawa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/ElawaCode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://youtube.com/@ElawaCode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@ElawaCode"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://x.com/ElawaCode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+- 🌳 **All Links**: [Linktree](https://linktr.ee/Mohamed_Elawa)
+- 📘 **Facebook**: [ElawaCode](https://www.facebook.com/ElawaCode)
+
+---
+<p align="center">
+ <b>© 2026 Mohamed Ahmed Gamil Elawa. All rights reserved.</b>
+</p>
